@@ -1,0 +1,36 @@
+header div{
+    background-color: black;
+    position: static;
+   }
+   body{
+       margin: 0% auto;
+   }
+   body header.top-page a.menu{
+       text-decoration: none;
+       float: left;
+       color: white;
+       font-size: 50px;
+       padding-left: 10px;
+       padding-top: 10px;
+   }
+   .logos {
+       height: 80px;
+   }
+   body header div img{
+       width: 50px;
+       height: 50px;
+       float: right;
+       padding: 20px;
+   }
+   #background img{
+       width: 100%;
+       height: 100%;
+       margin: 0%;
+       opacity: 0.85;
+       position: relative;
+       margin-top: 35px;
+   }
+   #background{
+   position: absolute;
+   top: 52px;}
+   
